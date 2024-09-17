@@ -12,3 +12,14 @@
 def hello_world():
     print("Hello, world!")
 
+# My Markdown Practice
+This is where I learn Markdown.
+## Header Level 2
+Below is a list:
+- Item 1
+- Item 2
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+- [ ] This is an incomplete item
